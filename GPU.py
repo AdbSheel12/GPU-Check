@@ -25,7 +25,7 @@ sleep 1
 toilet -f big -F GPU Chacking...
 print $green"GPU Opengels2.0 Check...."
 sleep 2
-echo $blue"Check done [✓]
+echo $blue"Check done [✓]"
 sleep 2
 exit
 fi
